@@ -1,1 +1,2 @@
-Test
+Background : I am Nuzhairil Arsanurrahman, a fresh graduate of informatics engineering at Mataram University.
+My motivation to deepen my skills in data science began when I joined the bangkit academy program in semester 5. From then on, I realized that making decisions with data is very important. After graduating, I returned to deepen my knowledge in this field by joining the bootcamp data science program from dibimbing.id. as for future plans, I want to start a career and develop as a data scientist. And hopefully after having a lot of experience I can become a senior data scientist.
